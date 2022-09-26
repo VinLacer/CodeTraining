@@ -1,5 +1,5 @@
 # CodeTraining
-A repo to save problems solved to pragraming training.
+A repo to save problems solved to programming training.
 
 ## Mario
 
